@@ -1,0 +1,38 @@
+=========================
+APP PLANNING & DESIGN
+=========================
+
+1. PROJECT IDEA
+-------------------------
+- What is your app called?
+- What type of app is it? (journal, listings, notes, etc.)
+- What will users use your app for?
+
+2. DATA MODEL (WHAT ARE YOU STORING?)
+-------------------------
+- What is a single “entry” in your app?
+- What fields will each entry have? (title, content, date, etc.)
+- How will entries be connected to a user?
+
+3. CORE FEATURES (CRUD)
+-------------------------
+- What can users CREATE?
+- What will they see on the main page (READ)?
+- What can users EDIT (UPDATE)?
+- What can users DELETE?
+
+4. USER FLOW
+-------------------------
+- What happens after a user logs in?
+- What pages/routes will your app need? (dashboard, create, edit, etc.)
+- Describe a typical user experience from login → using your app
+
+5. USER EXPERIENCE (UX)
+-------------------------
+- How should your app look and feel?
+- How will users navigate between pages?
+- How will entries be displayed (list, cards, etc.)?
+
+6. OPTIONAL FEATURES
+-------------------------
+- What extra features might you add? (search, tags, sorting, etc.)
